@@ -1,6 +1,6 @@
 import { useRef, useEffect } from "react";
 
-import ModalProps from "@/modules/common/types/interfaces/ModalProps";
+import ModalProps from "@/modules/common/types/interfaces/props/ModalProps";
 
 const Modal: React.FC<ModalProps> = ({
   isOpen,

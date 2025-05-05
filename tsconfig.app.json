@@ -32,7 +32,8 @@
       "@types/*": ["modules/common/types/*"],
       "@controller/*": ["modules/common/controllers/*"],
       "@hooks/*": ["modules/common/hooks/*"],
-      "@ui/*": ["modules/common/components/ui/*"]
+      "@ui/*": ["modules/common/components/ui/*"],
+      "@contexts/*": ["modules/common/contexts/*"]
     }
   },
   "include": ["src"]

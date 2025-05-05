@@ -1,4 +1,4 @@
-import ButtonProps from "@/modules/common/types/interfaces/ButtonProps";
+import ButtonProps from "@/modules/common/types/interfaces/props/ButtonProps";
 import {
   sizeClasses,
   variantClasses,

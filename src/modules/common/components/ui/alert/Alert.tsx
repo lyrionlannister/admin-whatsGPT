@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import AlertProps from "@/modules/common/types/interfaces/AlertProps";
+import AlertProps from "@/modules/common/types/interfaces/props/AlertProps";
 import { variantClasses, icons } from "@/modules/common/utils/alertUtils";
 
 /**

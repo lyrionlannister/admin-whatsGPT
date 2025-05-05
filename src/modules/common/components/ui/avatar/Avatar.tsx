@@ -1,4 +1,4 @@
-import AvatarProps from "@/modules/common/types/interfaces/AvatarProps";
+import AvatarProps from "@/modules/common/types/interfaces/props/AvatarProps";
 
 import {
   sizeClasses,

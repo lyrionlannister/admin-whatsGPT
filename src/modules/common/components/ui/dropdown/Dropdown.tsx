@@ -1,8 +1,8 @@
 import { useEffect, useRef } from "react";
 
-import DropdownProps from "@/modules/common/types/interfaces/DropdownProps";
+import DropdownProps from "@/modules/common/types/interfaces/props/DropdownProps";
 
-export const Dropdown: React.FC<DropdownProps> = ({
+const Dropdown: React.FC<DropdownProps> = ({
   isOpen,
   onClose,
   children,
@@ -39,3 +39,5 @@ export const Dropdown: React.FC<DropdownProps> = ({
     </div>
   );
 };
+
+export default Dropdown;
