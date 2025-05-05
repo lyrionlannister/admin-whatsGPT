@@ -31,7 +31,8 @@
       "@website/*": ["config/website/*"],
       "@types/*": ["modules/common/types/*"],
       "@controller/*": ["modules/common/controllers/*"],
-      "@hooks/*": ["modules/common/hooks/*"]
+      "@hooks/*": ["modules/common/hooks/*"],
+      "@ui/*": ["modules/common/components/ui/*"]
     }
   },
   "include": ["src"]
